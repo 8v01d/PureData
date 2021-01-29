@@ -1,0 +1,89 @@
+#N canvas 0 25 1680 997 10;
+#X obj 1 1 cnv 15 603 62 empty empty empty 20 12 0 14 -233017 -66577
+0;
+#X obj 1 49 cnv 15 603 25 empty empty empty 20 12 0 14 -191407 -66577
+0;
+#X text 11 29 by 8v01d (infinite void), f 82;
+#X obj 1 72 cnv 15 603 25 empty empty empty 20 12 0 14 -128992 -66577
+0;
+#X obj 1 95 cnv 15 603 25 empty empty empty 20 12 0 14 -99865 -262144
+0;
+#X text 11 74 Contact: thisis8v01d@gmail.com, f 82;
+#X text 11 97 Last Revised: January 28 \, 2021, f 82;
+#X obj 478 177 cnv 15 451 488 empty empty empty 20 12 0 14 -228856
+-66577 0;
+#X obj 31 177 cnv 15 433 149 empty empty empty 20 12 0 14 -261234 -66577
+0;
+#X msg 136 248 stop;
+#X obj 49 267 r~ record;
+#X obj 136 200 bng 20 250 50 0 empty empty empty 17 7 0 10 -258699
+-1 -1;
+#X obj 111 200 bng 20 250 50 0 empty empty empty 17 7 0 10 -24198 -1
+-1;
+#X obj 111 267 writesf~ 2;
+#X msg 111 228 open -bytes 4 expr_project_3 \, start;
+#X msg 599 252 0.00625;
+#X msg 557 252 0.0125;
+#X msg 523 252 0.025;
+#X obj 522 601 dac~;
+#X obj 537 515 line;
+#X obj 597 469 bng 20 250 50 0 empty empty empty 17 7 0 10 -258699
+-1 -1;
+#X msg 597 494 0 2000;
+#X obj 537 468 bng 20 250 50 0 startup empty empty 17 7 0 10 -24198
+-1 -1;
+#X floatatom 537 535 5 0 0 0 - - -;
+#X msg 537 494 1 2000;
+#X obj 537 445 loadbang;
+#X obj 522 558 *~;
+#X obj 554 601 s~ record;
+#X obj 523 308 expr~ $v1*(1<<19);
+#X obj 523 286 phasor~ 0.015625;
+#X msg 649 252 0.015625;
+#X msg 732 291 104;
+#X msg 726 269 50;
+#X msg 717 245 14;
+#X obj 523 336 expr~ $v1*(($v1>>$v2&3)+2)/((-$v1>>$v3&3)+1) <<(-$v1>>$v3&3)
+&160 \;;
+#X msg 835 276 104;
+#X msg 817 256 50;
+#X msg 855 297 3;
+#X msg 877 314 300;
+#X msg 801 235 13;
+#X obj 780 210 loadbang;
+#X text 11 8 Expr Project 3, f 82;
+#X text 11 51 Using Pd Vanilla Version 0.51.3, f 82;
+#X connect 9 0 13 0;
+#X connect 10 0 13 0;
+#X connect 10 0 13 1;
+#X connect 11 0 9 0;
+#X connect 12 0 14 0;
+#X connect 14 0 13 0;
+#X connect 15 0 29 0;
+#X connect 16 0 29 0;
+#X connect 17 0 29 0;
+#X connect 19 0 23 0;
+#X connect 20 0 21 0;
+#X connect 21 0 19 0;
+#X connect 22 0 24 0;
+#X connect 23 0 26 1;
+#X connect 24 0 19 0;
+#X connect 25 0 22 0;
+#X connect 26 0 18 0;
+#X connect 26 0 18 1;
+#X connect 26 0 27 0;
+#X connect 28 0 34 0;
+#X connect 29 0 28 0;
+#X connect 30 0 29 0;
+#X connect 31 0 34 1;
+#X connect 32 0 34 1;
+#X connect 33 0 34 1;
+#X connect 34 0 26 0;
+#X connect 35 0 34 2;
+#X connect 36 0 34 2;
+#X connect 37 0 34 2;
+#X connect 38 0 34 2;
+#X connect 39 0 34 2;
+#X connect 40 0 32 0;
+#X connect 40 0 38 0;
+#X connect 40 0 17 0;
