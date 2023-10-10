@@ -1,0 +1,31 @@
+#N canvas 2127 428 624 537 12;
+#X obj 0 1 cnv 15 603 25 empty empty empty 20 12 0 14 #dfdfdf #404040
+0;
+#X obj 0 27 cnv 15 603 25 empty empty empty 20 12 0 14 #b8b8b8 #404040
+0;
+#X text 10 5 by 8v01d (infinite void), f 82;
+#X obj 0 50 cnv 15 603 25 empty empty empty 20 12 0 14 #7c7c7c #404040
+0;
+#X text 10 52 Contact: thisis8v01d@gmail.com, f 82;
+#X obj 48 398 *~;
+#X obj 66 362 vline~;
+#X obj 67 114 inlet;
+#X obj 48 433 outlet~;
+#X obj 68 257 bng 15 250 50 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000;
+#X obj 68 227 t b b b;
+#X obj 48 158 f \$1;
+#X obj 66 290 f \$2;
+#X msg 66 328 1 5 \, 0 \$1 5;
+#X text 10 29 Using Purr Data Version 2.17.0, f 82;
+#X obj 48 189 osc~;
+#X connect 5 0 8 0;
+#X connect 6 0 5 1;
+#X connect 7 0 10 0;
+#X connect 10 0 9 0;
+#X connect 10 1 12 0;
+#X connect 10 2 11 0;
+#X connect 11 0 15 0;
+#X connect 12 0 13 0;
+#X connect 13 0 6 0;
+#X connect 15 0 5 0;
