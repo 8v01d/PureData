@@ -57,6 +57,6 @@ PureData Code by 8v01d. Enjoy!
 | NA | https://youtu.be/mwCudDnIxRM | N/A |
 | NA | https://youtu.be/kwc6-1Ho9xI | N/A |
 | NA | https://youtu.be/vwgOcF6GneA | N/A |
-| 1 | https://youtu.be/7qpkC_8tQJw - 001 - Hello World |
-| 2 | https://youtu.be/_3-cGhbgc5E - 002 - Hearing Sounds |
-| 3 | https://youtu.be/ULCt5nOIFAM - 003 - Volume control and DSP control |
+| 1 | https://youtu.be/7qpkC_8tQJw | 001 - Hello World |
+| 2 | https://youtu.be/_3-cGhbgc5E | 002 - Hearing Sounds |
+| 3 | https://youtu.be/ULCt5nOIFAM | 003 - Volume control and DSP control |
