@@ -28,14 +28,23 @@ PureData Code by 8v01d. Enjoy!
 <BR>25 - 
 <BR>26 - 
 <BR>27 - 
-
-
-
-
-
-
-
-
+<BR>28 - 
+<BR>29 - 
+<BR>30 - 
+<BR>31 - 
+<BR>32 - 
+<BR>33 - 
+<BR>34 - 
+<BR>35 - 
+<BR>36 - 
+<BR>37 - 
+<BR>38 - 
+<BR>39 - 
+<BR>40 - 
+<BR>41 - 
+<BR>42 - 
+<BR>43 - 
+<BR>44 - 
 
 
 # Tutorials
