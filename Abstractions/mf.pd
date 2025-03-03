@@ -1,8 +1,0 @@
-#N canvas 0 25 450 300 12;
-#X msg 162 121 label \$1;
-#X obj 162 79 inlet;
-#X obj 162 142 outlet;
-#X obj 162 100 makefilename \$1;
-#X connect 0 0 2 0;
-#X connect 1 0 3 0;
-#X connect 3 0 0 0;
