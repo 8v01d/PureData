@@ -2,7 +2,7 @@
 PureData Code by 8v01d. Enjoy!
 
 | Code File on GitHub | YouTube Video | YouTube Video Title |
-| ------------- | ------------- | ------------- |
+| :---: | ------------- | ------------- |
 | 1 | https://youtu.be/InDr7edi9K4 | (3) Pure Data - 8v01d - Nice Rhythm Patch |
 | 2 | https://youtu.be/zbC9uR4y4wM | (4) Pure Data - 8v01d - The Expr Object |
 | 3 | https://youtu.be/9QunavVTiRA | (5) Pure Data - 8v01d - Glissando |
@@ -51,7 +51,7 @@ PureData Code by 8v01d. Enjoy!
 
 # Tutorials
 | Code File on GitHub | YouTube Video | YouTube Video Title |
-| ------------- | ------------- | ------------- |
+| :---: | ------------- | ------------- |
 | NA | https://youtu.be/09zRzvwilK0 | N/A |
 | NA | https://youtu.be/r-cc_btcE4U | N/A |
 | NA | https://youtu.be/mwCudDnIxRM | N/A |
