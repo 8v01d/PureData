@@ -1,4 +1,4 @@
-# PD
+# Pure Data
 PureData Code by 8v01d. Enjoy!
 
 | Code File on GitHub | YouTube Video | YouTube Video Title |
