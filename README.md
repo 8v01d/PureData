@@ -3,6 +3,8 @@ PureData Code by 8v01d. Enjoy!
 
 | Code File on GitHub | YouTube Video Link | 
 | :---: | ------------- | 
+| N/A | [(1) Pure Data - 8v01d - Music Sequencer](https://www.youtube.com/watch?v=VgCXpIlOgHI) |
+| N/A | [(2) Pure Data - 8v01d - Sequencer Updated with Sequence Chooser [Making Computer Music]](https://www.youtube.com/watch?v=S3nMGajw6Yw) |
 | 1 | [(3) Pure Data - 8v01d - Nice Rhythm Patch](https://youtube.com/watch?v=InDr7edi9K4) |
 | 2 | [(4) Pure Data - 8v01d - The Expr Object](https://youtube.com/watch?v=zbC9uR4y4wM) |
 | 3 | [(5) Pure Data - 8v01d - Glissando](https://youtube.com/watch?v=9QunavVTiRA) |
@@ -18,8 +20,11 @@ PureData Code by 8v01d. Enjoy!
 | 13 | [(15) Pure Data - 8v01d - Expr Project 3](https://youtube.com/watch?v=eCDMRp8BiCg) |
 | 14 | [(16) Pure Data - 8v01d - Noisy Patch Expansion](https://youtube.com/watch?v=TRlGRhc7KF0) |
 | 15 | [(17) Pure Data - 8v01d - Clicks and Clacks](https://youtube.com/watch?v=U6TCU1RHRP4) |
+| N/A | [(18) Pure Data - 8v01d - Melody and Reverb - Number 1](https://www.youtube.com/watch?v=IOItercTUP8) |
+| N/A | [(19) Pure Data - 8v01d - Melody and Reverb - Number 2](https://www.youtube.com/watch?v=EzV8EqK41MI) |
 | 16 | [(20) Pure Data - 8v01d - Don't Know](https://youtube.com/watch?v=orjTvxqgwG4) |
 | 17 | [(21) Pure Data - 8v01d - This is Something](https://youtube.com/watch?v=pKAV1NyAMpU) |
+| N/A | [(22) Pure Data - 8v01d - Short Synths Drone-ish](https://www.youtube.com/watch?v=12pa_rnquxM) |
 | 18 | [(23) Pure Data - 8v01d - Live Stream 1 [Code With Me]](https://youtube.com/watch?v=xXtbraVAzcY) |
 | 19 | [(24) Pure Data - 8v01d - Live Stream 2 [Code With Me]](https://youtube.com/watch?v=qZlHmGqM02g) |
 | 20 | [(25) Pure Data - 8v01d - Jamuary 14, 2022](https://youtube.com/watch?v=VUbmmApqWpI) |
@@ -40,6 +45,11 @@ PureData Code by 8v01d. Enjoy!
 | 35 | [(40) Pure Data - 8v01d - Something Made Today](https://youtube.com/watch?v=Xg2boeXlCQA) |
 | 36 | [(41) Pure Data - 8v01d - Very Nice](https://youtube.com/watch?v=RQR0Lj-P4v4) |
 | 37 | [(42) Pure Data - 8v01d - Noise Blips](https://youtube.com/watch?v=ZdiaQQAbp2s) |
+| N/A | [(43) Pure Data - GEM - 8v01d - Noise Blips (Reactive Audio Visuals)](https://www.youtube.com/watch?v=Cyr1woXHUUk) |
+| N/A | [(44) Pure Data - GEM - 8v01d - More Noise (Reactive Audio Visuals)](https://www.youtube.com/watch?v=O5ZESonGIsU) |
+| N/A | [(45) Pure Data - Digital Online Book](https://www.youtube.com/watch?v=EISz4a5M3d0) |
+| N/A | 
+| N/A | 
 | 38 | 
 | 39 | 
 | 40 | 
@@ -52,11 +62,12 @@ PureData Code by 8v01d. Enjoy!
 # Tutorials
 | Code File on GitHub | YouTube Video Link |
 | :---: | ------------- | 
-| NA | [N/A](https://youtube.com/watch?v=09zRzvwilK0 ) |
-| NA | [N/A](https://youtube.com/watch?v=r-cc_btcE4U) |
-| NA | [N/A](https://youtube.com/watch?v=mwCudDnIxRM) |
-| NA | [N/A](https://youtube.com/watch?v=kwc6-1Ho9xI) |
-| NA | [N/A](https://youtube.com/watch?v=vwgOcF6GneA) |
+| NA | [(1) Pure Data Tutorial - What is Pure Data?](https://youtube.com/watch?v=09zRzvwilK0 ) |
+| NA | [(2) Pure Data Tutorial - Install Pure Data (on Windows operating system)](https://youtube.com/watch?v=r-cc_btcE4U) |
+| NA | [(3) Pure Data Tutorial - Graphical User Interface (GUI)](https://youtube.com/watch?v=mwCudDnIxRM) |
+| NA | [(4) Pure Data Tutorial - Help](https://youtube.com/watch?v=kwc6-1Ho9xI) |
+| NA | [(5) Pure Data Tutorial - Keyboard Shortcuts](https://youtube.com/watch?v=vwgOcF6GneA) |
 | 1 | [(6) Pure Data Tutorial - Hello World, Inlet, Outlet](https://youtube.com/watch?v=7qpkC_8tQJw) |
 | 2 | [(7) Pure Data Tutorial - Hearing Sounds in PD! (oscillators and executing sound)](https://youtube.com/watch?v=_3-cGhbgc5E) |
 | 3 | [(8) Pure Data Tutorial - Volume control and DSP control](https://youtube.com/watch?v=ULCt5nOIFAM) |
+| N/A | [(45) Pure Data - Digital Online Book](https://www.youtube.com/watch?v=EISz4a5M3d0) |
