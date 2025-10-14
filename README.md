@@ -60,3 +60,10 @@
 | 7 | [(7) Pure Data Tutorial - Hearing Sounds in PD! (oscillators and executing sound)](https://youtube.com/watch?v=_3-cGhbgc5E) |
 | 8 | [(8) Pure Data Tutorial - Volume control and DSP control](https://youtube.com/watch?v=ULCt5nOIFAM) |
 | N/A | [(45) Pure Data - Digital Online Book](https://www.youtube.com/watch?v=EISz4a5M3d0) |
+| in progress | [(9) Pure Data Tutorial - Record, write and save sounds to the disk as a computer file .wav](https://www.youtube.com/watch?v=zgkiY4Pzztg) |
+| in progress | [(10) Pure Data Tutorial - Review atom boxes and GUI atom boxes](https://www.youtube.com/watch?v=c8uxkqF17TM&t) |
+| in progress | [(11) Pure Data Tutorial - Basic Math and Brief Introduction On Advanced Math](https://www.youtube.com/watch?v=0hLJi1i678s) |
+| in progress | [(12) Pure Data Tutorial - Bang, trigger, [t b b] and loadbang](https://www.youtube.com/watch?v=3_ih8hsQn0U) |
+| in progress | [(13) Pure Data Tutorial - Timing: Metro](https://www.youtube.com/watch?v=_8p4g7Pytdw) |
+| in progress | [(14) Pure Data Tutorial - Oscilloscope](https://www.youtube.com/watch?v=c0h23SiwNXk&t) |
+| in progress | [(15) Pure Data Tutorial - Using Random (Make a Random Audio Frequency Signal Generator)](https://www.youtube.com/watch?v=wJsJbqHoyms&t) |
