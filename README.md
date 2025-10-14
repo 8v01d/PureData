@@ -1,4 +1,6 @@
 # Pure Data
+[Pure Data - 8v01d's Patches and Projects Playlist](https://www.youtube.com/playlist?list=PLLiQHAn4RqPs_xSYBzElhTQaSYB4-VKP6)
+
 
 | Code File on GitHub | YouTube Video Link | 
 | :---: | ------------- | 
@@ -49,6 +51,8 @@
 | N/A | [(45) Pure Data - Digital Online Book](https://www.youtube.com/watch?v=EISz4a5M3d0) |
 
 # Tutorials
+[Pure Data Tutorial Playlist](https://www.youtube.com/playlist?list=PLLiQHAn4RqPuYe5y9MgVoXcyzBvf1vbG5)
+
 | Code File on GitHub | YouTube Video Link |
 | :---: | ------------- | 
 | NA | [(1) Pure Data Tutorial - What is Pure Data?](https://youtube.com/watch?v=09zRzvwilK0 ) |
