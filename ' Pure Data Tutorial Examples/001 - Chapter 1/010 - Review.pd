@@ -1,0 +1,9 @@
+#N canvas 0 0 657 375 12;
+#X floatatom 20 150 5 0 0 0 - - -, f 5;
+#X msg 20 30 50;
+#X obj 20 90 + 10;
+#X text 70 30 <-- message box;
+#X text 70 90 <-- object box;
+#X text 70 150 <-- number box;
+#X connect 1 0 2 0;
+#X connect 2 0 0 0;
