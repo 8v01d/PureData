@@ -69,3 +69,4 @@
 | 13 | [(13) Pure Data Tutorial - Timing: Metro](https://www.youtube.com/watch?v=_8p4g7Pytdw) |
 | 14 | [(14) Pure Data Tutorial - Oscilloscope](https://www.youtube.com/watch?v=c0h23SiwNXk&t) |
 | 15 | [(15) Pure Data Tutorial - Using Random (Make a Random Audio Frequency Signal Generator)](https://www.youtube.com/watch?v=wJsJbqHoyms&t) |
+| 16 | [(16) Pure Data Tutorial - Create a simple sequencer using [float], [%] or modulus, [select]](https://www.youtube.com/watch?v=aH1ir6jdTHg&t) |
