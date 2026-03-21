@@ -72,4 +72,4 @@
 | 16 | [(16) Pure Data Tutorial - Create a simple sequencer using [float], [%] or modulus, [select]](https://www.youtube.com/watch?v=aH1ir6jdTHg&t) |
 | 17 | [(17) Pure Data Tutorial - Volume Meter using [pvu~] and [VU]
 ](https://www.youtube.com/watch?v=aH1ir6jdTHg&t) |
-| 18 | [(18) Pure Data Tutorial  - [send]/[receive] vs [send~][receive~] OR [s]/[r]  vs [s~]/[r~]](https://youtu.be/FQS4wUsB9Ag) |
+| 18 | [(18) Pure Data Tutorial  - [send]/[receive] vs [send~]/[receive~] OR [s]/[r]  vs [s~]/[r~]](https://youtu.be/FQS4wUsB9Ag) |
