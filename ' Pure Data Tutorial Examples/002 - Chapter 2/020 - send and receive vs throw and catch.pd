@@ -1,0 +1,56 @@
+#N canvas 54 33 1921 976 10;
+#X obj 20 60 dac~;
+#X obj 22 174 *~;
+#X obj 42 140 hsl 23 15 0 1 0 0 empty empty empty -2 -8 0 10 #fcfcfc
+#000000 #000000 0 1;
+#X obj 22 110 phasor~ 500;
+#X obj 300 60 dac~;
+#X obj 240 174 *~;
+#X obj 330 174 *~;
+#X obj 330 110 phasor~ 300;
+#X obj 260 140 hsl 23 15 0 1 0 0 empty empty empty -2 -8 0 10 #fcfcfc
+#000000 #000000 0 1;
+#X obj 350 140 hsl 23 15 0 1 0 0 empty empty empty -2 -8 0 10 #fcfcfc
+#000000 #000000 0 1;
+#X obj 240 110 phasor~ 500;
+#X obj 20 20 receive~ example1;
+#X obj 22 200 send~ example1;
+#X obj 300 20 catch~ mix;
+#X obj 240 199 throw~ mix;
+#X obj 330 200 throw~ mix;
+#X obj 490 60 dac~;
+#X obj 490 164 *~;
+#X obj 588 164 *~;
+#X obj 588 100 phasor~ 300;
+#X obj 510 130 hsl 23 15 0 1 0 0 empty empty empty -2 -8 0 10 #fcfcfc
+#000000 #000000 0 1;
+#X obj 608 130 hsl 23 15 0 1 0 0 empty empty empty -2 -8 0 10 #fcfcfc
+#000000 #000000 0 1;
+#X obj 490 100 phasor~ 500;
+#X obj 490 190 send~ name1;
+#X obj 588 190 send~ name2;
+#X obj 490 20 receive~ name1;
+#X obj 590 20 receive~ name2;
+#X connect 1 0 12 0;
+#X connect 2 0 1 1;
+#X connect 3 0 1 0;
+#X connect 5 0 14 0;
+#X connect 6 0 15 0;
+#X connect 7 0 6 0;
+#X connect 8 0 5 1;
+#X connect 9 0 6 1;
+#X connect 10 0 5 0;
+#X connect 11 0 0 0;
+#X connect 11 0 0 1;
+#X connect 13 0 4 0;
+#X connect 13 0 4 1;
+#X connect 17 0 23 0;
+#X connect 18 0 24 0;
+#X connect 19 0 18 0;
+#X connect 20 0 17 1;
+#X connect 21 0 18 1;
+#X connect 22 0 17 0;
+#X connect 25 0 16 0;
+#X connect 25 0 16 1;
+#X connect 26 0 16 0;
+#X connect 26 0 16 1;
